@@ -1,37 +1,22 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
-    description: "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
-  },
-  {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "/Osisearch-app-project.png",
+    title: "OsiSearch App",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ['HTML', 'CSS', 'NodeJs', 'MongoDB', 'SocketIo'],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.onrender.com/",
+      "A web app to decrease the time it takes medical professionals to search ICD-10 or diagnosis codes.",
+    tech_stack: ["React", "NextJS"],
+    github_url: "https://github.com/patcerutti23/osiSearchNext",
+    demo_url: "https://osi-search-next.vercel.app/",
   },
   {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
-    description: "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ['ReactJs', 'NodeJs', 'MongoDB'],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
-  },
-  {
-    img: "/jobDetect.png",
-    title: "JobDetect",
-    description: "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ['Python', 'Flask', 'NodeJs', 'MongoDB'],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+    img: "/fomore-app.png",
+    title: "FOMORE App",
+    description: "FOMORE is an itinerary app to plan your next trip",
+    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
+    github_url:
+      "https://gitlab.com/patcerutti23/fomore/-/tree/front_end?ref_type=heads",
+    demo_url: "https://mymindweb.vercel.app/",
   },
 ];
 
