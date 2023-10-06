@@ -20,37 +20,45 @@ function About() {
           </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Hello! My name is <strong>Patrick Cerutti</strong>. I'm originally
-              from Brazil and have been living in Canada for the past three
-              years. During my time here, I gained valuable experience through
-              various entry-level positions, which greatly enhanced my work
-              ethic, communication skills, and adaptability.
+              Hello! I'm J. Patrick Cerutti, a versatile Software Engineer with
+              a background as a former Physical Therapist. My journey from
+              healthcare to the world of technology has equipped me with a
+              unique perspective and a diverse skill set that I'm excited to
+              bring to the table.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              My journey into the world of technology began with a strong
-              passion for problem-solving, which led me to pursue the Computer
-              Systems Technology program. Despite its challenges, I remained
-              determined and forged lasting friendships that supported me
-              throughout this demanding program. Throughout my studies at BCIT,
-              I had the opportunity to engage in fascinating projects. Notably,
-              I contributed to the development of the RENR Safety App and
-              MyMind, projects that garnered recognition from my colleagues,
-              instructors, and clients alike.
+              With a passion for leveraging technology to solve real-world
+              problems, I've transitioned into the role of a Full Stack Web
+              Developer. My experience as a Physical Therapist exposed me to the
+              challenges of time-consuming diagnosis code searches, which led me
+              to develop a fuzzy search web app to streamline the process—a
+              project that ignited my enthusiasm for technology.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective
-              has been an incredibly rewarding and unique experience for me. I
-              am eager to continue exploring exciting projects in the future,
-              with a particular interest in web development and cross-platform
-              mobile development.
+              Proficient in JavaScript and React, I thrive in agile-minded team
+              environments where effective communication is paramount. I'm also
+              comfortable working with Python and Django stacks, showcasing my
+              versatility and adaptability to different tech stacks. I'm a
+              dedicated lifelong learner, always seeking opportunities to expand
+              my skills as an Engineer.
+            </ScrollAnimation>
+
+            <br />
+            <br />
+
+            <ScrollAnimation animateIn="fadeInLeft">
+              I'm a diligent and adaptable individual, constantly pushing the
+              boundaries of my knowledge and skills in the software engineering
+              field. I'm enthusiastic about the opportunity to contribute my
+              unique background and technical expertise to your team.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
